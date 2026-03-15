@@ -25,7 +25,6 @@ print(num<<2)
 num=20
 print(num>>1)
 #7.& operator user input method
-'''
 a=int(input("num1:"))
 b=int(input("num2:"))
 c=a&b
@@ -35,7 +34,6 @@ a=int(input("num1:"))
 b=int(input("num2:"))
 c=a^b
 print(c)
-'''
 
 #2 string task
 #9.task
@@ -56,31 +54,31 @@ word3="world"
 word=word1+word2+word3
 print(word)
 #13.task
-#name=input("Enter the name:")
-#print(name*5)
+name=input("Enter the name:")
+print(name*5)
 #14.task
-#name1=input("Enter the name1:")
-#name2=input("Enter the name2:")
-#name=name1+name2
-#print("full name:",name)
+name1=input("Enter the name1:")
+name2=input("Enter the name2:")
+name=name1+name2
+print("full name:",name)
 
 #3. Input and Type casting task.
 #15 .task
-#name=input("enter the name:")
-#print(type(name))
+name=input("enter the name:")
+print(type(name))
 #16.task
-#age=int(input("enter your age:"))
-#print(type(age))
+age=int(input("enter your age:"))
+print(type(age))
 #17.task
 num1=int(input("enter the num1:"))
 num2=int(input("enter the num2:"))
 number=num1=num2
-print("total number:"number)
+print("total number:",number)
 #18.task
 a=int(input("enter 1st number:"))
 b=int(input("enter 2nd number:"))
 average=(a+b)/2
-print("average:"average)
+print("average:",average)
 #19.task
 a=int(input("number1:"))
 b=int(input("number2:"))
